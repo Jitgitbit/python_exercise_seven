@@ -15,5 +15,5 @@ git add .
 git commit -m 'third'
 gst
 
-python3 diceSimulator.py
+python3 dictionary.py
 and so on...
